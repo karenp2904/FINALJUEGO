@@ -7,6 +7,7 @@ public class Main {
 		//Gui5 Gui5 = new Gui5();
 		//Gui5.setVisible(true);
 		VentanaInicio ventanaInicio= new VentanaInicio();
+		//holaaaa
 
 	}
 
